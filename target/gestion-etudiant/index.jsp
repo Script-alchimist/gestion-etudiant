@@ -17,18 +17,18 @@
         <h1
           class="text-3xl font-semibold text-blue-900 xl:text-5xl lg:text-3xl"
         >
-          <span class="block w-full">Get a financial experience</span> for
-          growing your business!
+          <span class="block w-full">Notre outils de gestion d'etudiant</span> Aux
+          Service de votre Université
         </h1>
         <p class="py-4 text-lg text-gray-500 2xl:py-8 md:py-6 2xl:pr-5">
-          Empowering you to make better financial decisions, We truly are
-          professional money planners...
+          Avec notre gerer au mieux vos etudiants et simplifiez la gestion 
+          administrative de votre établissement scolaire.
         </p>
         <div class="mt-4">
           <a
             href="${pageContext.request.contextPath}/student-liste"
             class="px-5 py-3 text-lg tracking-wider text-white bg-blue-500 rounded-lg md:px-8 hover:bg-blue-600 group"
-            ><span>Explore More</span>
+            ><span>Commencer</span>
           </a>
         </div>
       </div>
