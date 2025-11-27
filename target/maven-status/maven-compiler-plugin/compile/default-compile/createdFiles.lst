@@ -1,0 +1,7 @@
+com\scriptiz\servlet\EditStudentServlet.class
+com\scriptiz\servlet\StudentListeServlet.class
+com\scriptiz\model\StudentModel.class
+com\scriptiz\servlet\UpdateStudentServlet.class
+com\scriptiz\servlet\AddStudentServlet.class
+com\scriptiz\servlet\DeleteStudentServlet.class
+com\scriptiz\dao\StudentDao.class
